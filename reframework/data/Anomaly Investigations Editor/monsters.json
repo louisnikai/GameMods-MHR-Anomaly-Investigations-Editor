@@ -363,7 +363,8 @@
             "4": true
         },
         "mystery_rank": 7,
-        "name": "Risen Kushala Daora"
+        "name": "Risen Kushala Daora",
+        "name_chs": "Risen Kushala Daora"
     },
     "2073": {
         "capture": false,
@@ -375,7 +376,8 @@
             "3": true
         },
         "mystery_rank": 7,
-        "name": "Risen Chameleos"
+        "name": "Risen Chameleos",
+        "name_chs": "Risen Chameleos"
     },
     "2075": {
         "capture": false,
@@ -387,7 +389,8 @@
             "5": true
         },
         "mystery_rank": 7,
-        "name": "Risen Teostra"
+        "name": "Risen Teostra",
+        "name_chs": "Risen Teostra"
     },
     "23": {
         "capture": true,
