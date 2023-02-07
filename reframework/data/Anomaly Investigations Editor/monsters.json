@@ -14,7 +14,7 @@
         },
         "mystery_rank": 0,
         "name": "None",
-        "name_chs": "ÎŞ"
+        "name_chs": "æ— "
     },
     "1": {
         "capture": true,
@@ -29,7 +29,7 @@
         },
         "mystery_rank": 2,
         "name": "Rathian",
-        "name_chs": "´Æ»ğÁú"
+        "name_chs": "é›Œç«é¾™"
     },
     "100": {
         "capture": true,
@@ -45,7 +45,7 @@
         },
         "mystery_rank": 2,
         "name": "Anjanath",
-        "name_chs": "Âùò¦Áú"
+        "name_chs": "è›®é¢šé¾™"
     },
     "102": {
         "capture": true,
@@ -58,7 +58,7 @@
         },
         "mystery_rank": 2,
         "name": "Pukei-Pukei",
-        "name_chs": "¶¾ÑıÄñ"
+        "name_chs": "æ¯’å¦–é¸Ÿ"
     },
     "107": {
         "capture": true,
@@ -73,7 +73,7 @@
         },
         "mystery_rank": 0,
         "name": "Kulu-Ya-Ku",
-        "name_chs": "’ûÄñ"
+        "name_chs": "æ»é¸Ÿ"
     },
     "108": {
         "capture": true,
@@ -84,7 +84,7 @@
         },
         "mystery_rank": 2,
         "name": "Jyuratodus",
-        "name_chs": "ÄàÓãÁú"
+        "name_chs": "æ³¥é±¼é¾™"
     },
     "109": {
         "capture": true,
@@ -97,7 +97,7 @@
         },
         "mystery_rank": 2,
         "name": "Tobi-Kadachi",
-        "name_chs": "·ÉÀ×Áú"
+        "name_chs": "é£é›·é¾™"
     },
     "118": {
         "capture": true,
@@ -114,24 +114,7 @@
         },
         "mystery_rank": 5,
         "name": "Bazelgeuse",
-        "name_chs": "±¬ÁÛÁú"
-    },
-    "124": {
-        "capture": false,
-        "main": false,
-        "maps": {
-            "0": true,
-            "1": true,
-            "12": true,
-            "13": true,
-            "2": true,
-            "3": true,
-            "4": true,
-            "5": true
-        },
-        "mystery_rank": 11,
-        "name": "Velkhana",
-        "name_chs": "±ù…âÁú"
+        "name_chs": "çˆ†é³é¾™"
     },
     "1303": {
         "capture": true,
@@ -148,7 +131,7 @@
         },
         "mystery_rank": 6,
         "name": "Furious Rajang",
-        "name_chs": "¼¤°º½ğÊ¨×Ó"
+        "name_chs": "æ¿€æ˜‚é‡‘ç‹®å­"
     },
     "132": {
         "capture": false,
@@ -161,7 +144,7 @@
         },
         "mystery_rank": 11,
         "name": "Malzeno",
-        "name_chs": "¾ôÒøÁú"
+        "name_chs": "çˆµé“¶é¾™"
     },
     "133": {
         "capture": true,
@@ -174,7 +157,7 @@
         },
         "mystery_rank": 4,
         "name": "Lunagaron",
-        "name_chs": "±ùÀÇÁú"
+        "name_chs": "å†°ç‹¼é¾™"
     },
     "134": {
         "capture": true,
@@ -186,20 +169,17 @@
         },
         "mystery_rank": 3,
         "name": "Garangolm",
-        "name_chs": "¸Õ²øÊŞ"
+        "name_chs": "åˆšç¼ å…½"
     },
     "1351": {
         "capture": true,
-        "main": true,
+        "main": false,
         "maps": {
-            "1": true,
-            "12": true,
-            "13": true,
-            "3": true
+            "0": true
         },
         "mystery_rank": 11,
         "name": "Chaotic Gore Magala",
-        "name_chs": "»ìãçºÚÊ´Áú"
+        "name_chs": "æ··æ²Œé»‘èš€é¾™"
     },
     "136": {
         "capture": true,
@@ -212,7 +192,7 @@
         },
         "mystery_rank": 5,
         "name": "Espinas",
-        "name_chs": "¼¬Áú"
+        "name_chs": "æ£˜é¾™"
     },
     "1366": {
         "capture": false,
@@ -229,7 +209,7 @@
         },
         "mystery_rank": 11,
         "name": "Crimson Glow Valstrax",
-        "name_chs": "ÉñÃØºì¹âÌìåçÁú"
+        "name_chs": "ç¥ç§˜çº¢å…‰å¤©å½—é¾™"
     },
     "1369": {
         "capture": true,
@@ -242,7 +222,7 @@
         },
         "mystery_rank": 6,
         "name": "Scorned Magnamalo",
-        "name_chs": "àµÔ¹ÕğÌìÔ¹»¢Áú"
+        "name_chs": "å—Ÿæ€¨éœ‡å¤©æ€¨è™é¾™"
     },
     "1398": {
         "capture": true,
@@ -259,7 +239,7 @@
         },
         "mystery_rank": 6,
         "name": "Seething Bazelgeuse",
-        "name_chs": "ºìÁ«±¬ÁÛÁú"
+        "name_chs": "çº¢è²çˆ†é³é¾™"
     },
     "1793": {
         "capture": false,
@@ -274,7 +254,7 @@
         },
         "mystery_rank": 11,
         "name": "Apex Rathian",
-        "name_chs": "°ÔÖ÷¡¤´Æ»ğÁú"
+        "name_chs": "éœ¸ä¸»Â·é›Œç«é¾™"
     },
     "1794": {
         "capture": false,
@@ -287,7 +267,7 @@
         },
         "mystery_rank": 11,
         "name": "Apex Rathalos",
-        "name_chs": "°ÔÖ÷¡¤»ğÁú"
+        "name_chs": "éœ¸ä¸»Â·ç«é¾™"
     },
     "1852": {
         "capture": false,
@@ -300,7 +280,7 @@
         },
         "mystery_rank": 11,
         "name": "Apex Arzuros",
-        "name_chs": "°ÔÖ÷¡¤ÇàĞÜÊŞ"
+        "name_chs": "éœ¸ä¸»Â·é’ç†Šå…½"
     },
     "1874": {
         "capture": false,
@@ -313,7 +293,7 @@
         },
         "mystery_rank": 11,
         "name": "Apex Mizutsune",
-        "name_chs": "°ÔÖ÷¡¤ÅİºüÁú"
+        "name_chs": "éœ¸ä¸»Â·æ³¡ç‹é¾™"
     },
     "19": {
         "capture": true,
@@ -326,7 +306,7 @@
         },
         "mystery_rank": 1,
         "name": "Daimyo Hermitaur",
-        "name_chs": "´óÃû¶ÜĞ·"
+        "name_chs": "å¤§åç›¾èŸ¹"
     },
     "2": {
         "capture": true,
@@ -339,7 +319,7 @@
         },
         "mystery_rank": 4,
         "name": "Rathalos",
-        "name_chs": "»ğÁú"
+        "name_chs": "ç«é¾™"
     },
     "20": {
         "capture": true,
@@ -351,46 +331,7 @@
         },
         "mystery_rank": 2,
         "name": "Shogun Ceanataur",
-        "name_chs": "½«¾üÁ­Ğ·"
-    },
-    "2072": {
-        "capture": false,
-        "main": true,
-        "maps": {
-            "12": true,
-            "13": true,
-            "2": true,
-            "4": true
-        },
-        "mystery_rank": 7,
-        "name": "Risen Kushala Daora",
-        "name_chs": "Risen Kushala Daora"
-    },
-    "2073": {
-        "capture": false,
-        "main": true,
-        "maps": {
-            "1": true,
-            "12": true,
-            "13": true,
-            "3": true
-        },
-        "mystery_rank": 7,
-        "name": "Risen Chameleos",
-        "name_chs": "Risen Chameleos"
-    },
-    "2075": {
-        "capture": false,
-        "main": true,
-        "maps": {
-            "0": true,
-            "13": true,
-            "2": true,
-            "5": true
-        },
-        "mystery_rank": 7,
-        "name": "Risen Teostra",
-        "name_chs": "Risen Teostra"
+        "name_chs": "å°†å†›é•°èŸ¹"
     },
     "23": {
         "capture": true,
@@ -407,7 +348,7 @@
         },
         "mystery_rank": 5,
         "name": "Rajang",
-        "name_chs": "½ğÊ¨×Ó"
+        "name_chs": "é‡‘ç‹®å­"
     },
     "24": {
         "capture": false,
@@ -420,7 +361,7 @@
         },
         "mystery_rank": 11,
         "name": "Kushala Daora",
-        "name_chs": "¸ÖÁú"
+        "name_chs": "é’¢é¾™"
     },
     "25": {
         "capture": false,
@@ -433,7 +374,7 @@
         },
         "mystery_rank": 11,
         "name": "Chameleos",
-        "name_chs": "Ï¼Áú"
+        "name_chs": "éœé¾™"
     },
     "27": {
         "capture": false,
@@ -446,7 +387,7 @@
         },
         "mystery_rank": 11,
         "name": "Teostra",
-        "name_chs": "Ñ×ÍõÁú"
+        "name_chs": "ç‚ç‹é¾™"
     },
     "3": {
         "capture": true,
@@ -458,7 +399,7 @@
         },
         "mystery_rank": 1,
         "name": "Khezu",
-        "name_chs": "Ææ¹ÖÁú"
+        "name_chs": "å¥‡æ€ªé¾™"
     },
     "32": {
         "capture": true,
@@ -471,7 +412,7 @@
         },
         "mystery_rank": 4,
         "name": "Tigrex",
-        "name_chs": "ºäÁú"
+        "name_chs": "è½°é¾™"
     },
     "346": {
         "capture": true,
@@ -484,7 +425,7 @@
         },
         "mystery_rank": 2,
         "name": "Blood Orange Bishaten",
-        "name_chs": "ç³Ìì¹·ÊŞ"
+        "name_chs": "ç»¯å¤©ç‹—å…½"
     },
     "349": {
         "capture": true,
@@ -496,7 +437,7 @@
         },
         "mystery_rank": 3,
         "name": "Aurora Somnacanth",
-        "name_chs": "±ùÈËÓãÁú"
+        "name_chs": "å†°äººé±¼é¾™"
     },
     "350": {
         "capture": true,
@@ -508,7 +449,7 @@
         },
         "mystery_rank": 5,
         "name": "Pyre Rakna-Kadaki",
-        "name_chs": "³ãåúÖ©Öë"
+        "name_chs": "ç‚½å¦ƒèœ˜è››"
     },
     "351": {
         "capture": true,
@@ -519,7 +460,7 @@
         },
         "mystery_rank": 4,
         "name": "Magma Almudron",
-        "name_chs": "ÈÛÎÌÁú"
+        "name_chs": "ç†”ç¿é¾™"
     },
     "37": {
         "capture": true,
@@ -532,7 +473,7 @@
         },
         "mystery_rank": 3,
         "name": "Nargacuga",
-        "name_chs": "Ñ¸Áú"
+        "name_chs": "è¿…é¾™"
     },
     "392": {
         "capture": true,
@@ -543,7 +484,7 @@
         },
         "mystery_rank": 6,
         "name": "Flaming Espinas",
-        "name_chs": "¼¬²èÁú"
+        "name_chs": "æ£˜èŒ¶é¾™"
     },
     "4": {
         "capture": true,
@@ -555,7 +496,7 @@
         },
         "mystery_rank": 1,
         "name": "Basarios",
-        "name_chs": "ÑÒÁú"
+        "name_chs": "å²©é¾™"
     },
     "42": {
         "capture": true,
@@ -567,7 +508,7 @@
         },
         "mystery_rank": 3,
         "name": "Barioth",
-        "name_chs": "±ùÑÀÁú"
+        "name_chs": "å†°ç‰™é¾™"
     },
     "44": {
         "capture": true,
@@ -578,7 +519,7 @@
         },
         "mystery_rank": 1,
         "name": "Barroth",
-        "name_chs": "ÍÁÉ°Áú"
+        "name_chs": "åœŸç ‚é¾™"
     },
     "47": {
         "capture": true,
@@ -591,7 +532,7 @@
         },
         "mystery_rank": 1,
         "name": "Royal Ludroth",
-        "name_chs": "Ë®ÊŞ"
+        "name_chs": "æ°´å…½"
     },
     "513": {
         "capture": true,
@@ -606,7 +547,7 @@
         },
         "mystery_rank": 6,
         "name": "Gold Rathian",
-        "name_chs": "½ğ»ğÁú"
+        "name_chs": "é‡‘ç«é¾™"
     },
     "514": {
         "capture": true,
@@ -619,7 +560,7 @@
         },
         "mystery_rank": 6,
         "name": "Silver Rathalos",
-        "name_chs": "Òø»ğÁú"
+        "name_chs": "é“¶ç«é¾™"
     },
     "54": {
         "capture": true,
@@ -630,7 +571,7 @@
         },
         "mystery_rank": 0,
         "name": "Great Baggi",
-        "name_chs": "Ãß¹·ÁúÍõ"
+        "name_chs": "çœ ç‹—é¾™ç‹"
     },
     "549": {
         "capture": true,
@@ -640,7 +581,7 @@
         },
         "mystery_rank": 11,
         "name": "Lucent Nargacuga",
-        "name_chs": "ÔÂÑ¸Áú"
+        "name_chs": "æœˆè¿…é¾™"
     },
     "57": {
         "capture": true,
@@ -653,7 +594,7 @@
         },
         "mystery_rank": 4,
         "name": "Zinogre",
-        "name_chs": "À×ÀÇÁú"
+        "name_chs": "é›·ç‹¼é¾™"
     },
     "59": {
         "capture": true,
@@ -666,7 +607,7 @@
         },
         "mystery_rank": 0,
         "name": "Great Wroggi",
-        "name_chs": "¶¾¹·ÁúÍõ"
+        "name_chs": "æ¯’ç‹—é¾™ç‹"
     },
     "594": {
         "capture": true,
@@ -676,7 +617,7 @@
         },
         "mystery_rank": 11,
         "name": "Violet Mizutsune",
-        "name_chs": "ÑæºüÁú"
+        "name_chs": "ç„°ç‹é¾™"
     },
     "60": {
         "capture": true,
@@ -689,7 +630,7 @@
         },
         "mystery_rank": 0,
         "name": "Arzuros",
-        "name_chs": "ÇàĞÜÊŞ"
+        "name_chs": "é’ç†Šå…½"
     },
     "61": {
         "capture": true,
@@ -701,7 +642,7 @@
         },
         "mystery_rank": 0,
         "name": "Lagombi",
-        "name_chs": "°×ÍÃÊŞ"
+        "name_chs": "ç™½å…”å…½"
     },
     "62": {
         "capture": true,
@@ -714,7 +655,7 @@
         },
         "mystery_rank": 0,
         "name": "Volvidon",
-        "name_chs": "³à¼×ÊŞ"
+        "name_chs": "èµ¤ç”²å…½"
     },
     "7": {
         "capture": true,
@@ -725,7 +666,7 @@
         },
         "mystery_rank": 4,
         "name": "Diablos",
-        "name_chs": "½ÇÁú"
+        "name_chs": "è§’é¾™"
     },
     "71": {
         "capture": true,
@@ -738,7 +679,7 @@
         },
         "mystery_rank": 5,
         "name": "Gore Magala",
-        "name_chs": "ºÚÊ´Áú"
+        "name_chs": "é»‘èš€é¾™"
     },
     "72": {
         "capture": false,
@@ -749,7 +690,7 @@
         },
         "mystery_rank": 11,
         "name": "Shagaru Magala",
-        "name_chs": "ÌìhÁú"
+        "name_chs": "å¤©å»»é¾™"
     },
     "77": {
         "capture": true,
@@ -762,7 +703,7 @@
         },
         "mystery_rank": 4,
         "name": "Seregios",
-        "name_chs": "Ç§ÈĞÁú"
+        "name_chs": "åƒåˆƒé¾™"
     },
     "81": {
         "capture": true,
@@ -775,7 +716,7 @@
         },
         "mystery_rank": 4,
         "name": "Astalos",
-        "name_chs": "µçÁú"
+        "name_chs": "ç”µé¾™"
     },
     "82": {
         "capture": true,
@@ -788,7 +729,7 @@
         },
         "mystery_rank": 4,
         "name": "Mizutsune",
-        "name_chs": "ÅİºüÁú"
+        "name_chs": "æ³¡ç‹é¾™"
     },
     "89": {
         "capture": true,
@@ -801,7 +742,7 @@
         },
         "mystery_rank": 3,
         "name": "Magnamalo",
-        "name_chs": "Ô¹»¢Áú"
+        "name_chs": "æ€¨è™é¾™"
     },
     "90": {
         "capture": true,
@@ -814,7 +755,7 @@
         },
         "mystery_rank": 1,
         "name": "Bishaten",
-        "name_chs": "Ìì¹·ÊŞ"
+        "name_chs": "å¤©ç‹—å…½"
     },
     "91": {
         "capture": true,
@@ -827,7 +768,7 @@
         },
         "mystery_rank": 1,
         "name": "Aknosom",
-        "name_chs": "É¡Äñ"
+        "name_chs": "ä¼é¸Ÿ"
     },
     "92": {
         "capture": true,
@@ -840,7 +781,7 @@
         },
         "mystery_rank": 1,
         "name": "Tetranadon",
-        "name_chs": "ºÓÍ¯ÍÜ"
+        "name_chs": "æ²³ç«¥è›™"
     },
     "93": {
         "capture": true,
@@ -848,12 +789,11 @@
         "maps": {
             "0": true,
             "3": true,
-            "4": true,
-            "5": true
+            "4": true
         },
         "mystery_rank": 2,
         "name": "Somnacanth",
-        "name_chs": "ÈËÓãÁú"
+        "name_chs": "äººé±¼é¾™"
     },
     "94": {
         "capture": true,
@@ -865,7 +805,7 @@
         },
         "mystery_rank": 3,
         "name": "Rakna-Kadaki",
-        "name_chs": "åúÖ©Öë"
+        "name_chs": "å¦ƒèœ˜è››"
     },
     "95": {
         "capture": true,
@@ -878,7 +818,7 @@
         },
         "mystery_rank": 3,
         "name": "Almudron",
-        "name_chs": "ÄàÎÌÁú"
+        "name_chs": "æ³¥ç¿é¾™"
     },
     "97": {
         "capture": true,
@@ -890,7 +830,7 @@
         },
         "mystery_rank": 3,
         "name": "Goss Harag",
-        "name_chs": "Ñ©¹íÊŞ"
+        "name_chs": "é›ªé¬¼å…½"
     },
     "98": {
         "capture": true,
@@ -902,6 +842,6 @@
         },
         "mystery_rank": 0,
         "name": "Great Izuchi",
-        "name_chs": "Á­÷øÁúÍõ"
+        "name_chs": "é•°é¼¬é¾™ç‹"
     }
 }
