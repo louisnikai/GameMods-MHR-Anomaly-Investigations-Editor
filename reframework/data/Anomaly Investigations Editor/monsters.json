@@ -14,22 +14,26 @@
         },
         "mystery_rank": 0,
         "name": "None",
-        "name_chs": "无"
+        "name_chs": "无",
+        "normal_rank": 0
     },
     "1": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "2": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Rathian",
-        "name_chs": "雌火龙"
+        "name_chs": "雌火龙",
+        "normal_rank": 1
     },
     "100": {
         "capture": true,
@@ -37,15 +41,19 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Anjanath",
-        "name_chs": "蛮颚龙"
+        "name_chs": "蛮颚龙",
+        "normal_rank": 1
     },
     "102": {
         "capture": true,
@@ -53,38 +61,47 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
+            "14": true,
             "2": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Pukei-Pukei",
-        "name_chs": "毒妖鸟"
+        "name_chs": "毒妖鸟",
+        "normal_rank": 1
     },
     "107": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "2": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Kulu-Ya-Ku",
-        "name_chs": "掻鸟"
+        "name_chs": "掻鸟",
+        "normal_rank": 0
     },
     "108": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Jyuratodus",
-        "name_chs": "泥鱼龙"
+        "name_chs": "泥鱼龙",
+        "normal_rank": 1
     },
     "109": {
         "capture": true,
@@ -92,12 +109,16 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Tobi-Kadachi",
-        "name_chs": "飞雷龙"
+        "name_chs": "飞雷龙",
+        "normal_rank": 1
     },
     "118": {
         "capture": true,
@@ -105,16 +126,20 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 5,
         "name": "Bazelgeuse",
-        "name_chs": "爆鳞龙"
+        "name_chs": "爆鳞龙",
+        "normal_rank": 4
     },
     "124": {
         "capture": false,
@@ -122,16 +147,20 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Velkhana",
-        "name_chs": "冰呪龙"
+        "name_chs": "冰呪龙",
+        "normal_rank": 5
     },
     "1303": {
         "capture": true,
@@ -139,16 +168,20 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 6,
         "name": "Furious Rajang",
-        "name_chs": "激昂金狮子"
+        "name_chs": "激昂金狮子",
+        "normal_rank": 5
     },
     "132": {
         "capture": false,
@@ -156,50 +189,68 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "5": true
+            "14": true,
+            "5": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Malzeno",
-        "name_chs": "爵银龙"
+        "name_chs": "爵银龙",
+        "normal_rank": 4
     },
     "133": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
-            "4": true
+            "14": true,
+            "4": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Lunagaron",
-        "name_chs": "冰狼龙"
+        "name_chs": "冰狼龙",
+        "normal_rank": 3
     },
     "134": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
             "13": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Garangolm",
-        "name_chs": "刚缠兽"
+        "name_chs": "刚缠兽",
+        "normal_rank": 2
     },
     "1351": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 7,
         "name": "Chaotic Gore Magala",
-        "name_chs": "混沌黑蚀龙"
+        "name_chs": "混沌黑蚀龙",
+        "normal_rank": 5
     },
     "136": {
         "capture": true,
@@ -207,12 +258,16 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
-            "13": true
+            "13": true,
+            "14": true,
+            "9": true
         },
         "mystery_rank": 5,
         "name": "Espinas",
-        "name_chs": "棘龙"
+        "name_chs": "棘龙",
+        "normal_rank": 3
     },
     "1366": {
         "capture": false,
@@ -220,29 +275,38 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Crimson Glow Valstrax",
-        "name_chs": "神秘红光天彗龙"
+        "name_chs": "神秘红光天彗龙",
+        "normal_rank": 5
     },
     "1369": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "13": true,
+            "14": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 6,
         "name": "Scorned Magnamalo",
-        "name_chs": "嗟怨震天怨虎龙"
+        "name_chs": "嗟怨震天怨虎龙",
+        "normal_rank": 5
     },
     "1398": {
         "capture": true,
@@ -250,31 +314,38 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 6,
         "name": "Seething Bazelgeuse",
-        "name_chs": "红莲爆鳞龙"
+        "name_chs": "红莲爆鳞龙",
+        "normal_rank": 5
     },
     "1793": {
         "capture": false,
         "main": false,
         "maps": {
-            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "2": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Apex Rathian",
-        "name_chs": "霸主·雌火龙"
+        "name_chs": "霸主·雌火龙",
+        "normal_rank": 11
     },
     "1794": {
         "capture": false,
@@ -282,12 +353,48 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "5": true
+            "14": true,
+            "5": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Apex Rathalos",
-        "name_chs": "霸主·火龙"
+        "name_chs": "霸主·火龙",
+        "normal_rank": 11
+    },
+    "1799": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "10": true,
+            "14": true,
+            "2": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "Apex Diablos",
+        "name_chs": "霸主·角龙",
+        "normal_rank": 11
+    },
+    "1849": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "Apex Zinogre",
+        "name_chs": "霸主·雷狼龙",
+        "normal_rank": 11
     },
     "1852": {
         "capture": false,
@@ -295,38 +402,51 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Apex Arzuros",
-        "name_chs": "霸主·青熊兽"
+        "name_chs": "霸主·青熊兽",
+        "normal_rank": 11
     },
     "1874": {
         "capture": false,
         "main": false,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "3": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Apex Mizutsune",
-        "name_chs": "霸主·泡狐龙"
+        "name_chs": "霸主·泡狐龙",
+        "normal_rank": 11
     },
     "19": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "2": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Daimyo Hermitaur",
-        "name_chs": "大名盾蟹"
+        "name_chs": "大名盾蟹",
+        "normal_rank": 0
     },
     "2": {
         "capture": true,
@@ -334,63 +454,120 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "5": true
+            "14": true,
+            "5": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Rathalos",
-        "name_chs": "火龙"
+        "name_chs": "火龙",
+        "normal_rank": 3
     },
     "20": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
+            "14": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Shogun Ceanataur",
-        "name_chs": "将军镰蟹"
+        "name_chs": "将军镰蟹",
+        "normal_rank": 2
     },
     "2072": {
         "capture": false,
         "main": true,
         "maps": {
+            "0": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 7,
         "name": "Risen Kushala Daora",
-        "name_chs": "怪异克服钢龙"
+        "name_chs": "怪异克服钢龙",
+        "normal_rank": 11
     },
     "2073": {
         "capture": false,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 7,
         "name": "Risen Chameleos",
-        "name_chs": "怪异克服霞龙"
+        "name_chs": "怪异克服霞龙",
+        "normal_rank": 11
     },
     "2075": {
         "capture": false,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
             "13": true,
+            "14": true,
             "2": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 7,
         "name": "Risen Teostra",
-        "name_chs": "怪异克服炎王龙"
+        "name_chs": "怪异克服炎王龙",
+        "normal_rank": 11
+    },
+    "2120": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "10": true,
+            "13": true,
+            "14": true,
+            "9": true
+        },
+        "mystery_rank": 8,
+        "name": "Risen Shagaru Magala",
+        "name_chs": "怪异克服天廻龙",
+        "normal_rank": 11
+    },
+    "2134": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 8,
+        "name": "Risen Crimson Glow Valstrax",
+        "name_chs": "怪异克服天彗龙",
+        "normal_rank": 11
     },
     "23": {
         "capture": true,
@@ -398,80 +575,106 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 5,
         "name": "Rajang",
-        "name_chs": "金狮子"
+        "name_chs": "金狮子",
+        "normal_rank": 4
     },
     "24": {
         "capture": false,
         "main": false,
         "maps": {
+            "0": true,
+            "10": true,
             "12": true,
             "13": true,
+            "14": true,
             "2": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Kushala Daora",
-        "name_chs": "钢龙"
+        "name_chs": "钢龙",
+        "normal_rank": 4
     },
     "25": {
         "capture": false,
         "main": false,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Chameleos",
-        "name_chs": "霞龙"
+        "name_chs": "霞龙",
+        "normal_rank": 4
     },
     "27": {
         "capture": false,
         "main": false,
         "maps": {
             "0": true,
+            "10": true,
             "13": true,
+            "14": true,
             "2": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Teostra",
-        "name_chs": "炎王龙"
+        "name_chs": "炎王龙",
+        "normal_rank": 4
     },
     "3": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
+            "14": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Khezu",
-        "name_chs": "奇怪龙"
+        "name_chs": "奇怪龙",
+        "normal_rank": 1
     },
     "32": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
+            "10": true,
             "13": true,
+            "14": true,
             "2": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Tigrex",
-        "name_chs": "轰龙"
+        "name_chs": "轰龙",
+        "normal_rank": 3
     },
     "346": {
         "capture": true,
@@ -479,47 +682,60 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "2": true
+            "14": true,
+            "2": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Blood Orange Bishaten",
-        "name_chs": "绯天狗兽"
+        "name_chs": "绯天狗兽",
+        "normal_rank": 1
     },
     "349": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
+            "10": true,
             "13": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Aurora Somnacanth",
-        "name_chs": "冰人鱼龙"
+        "name_chs": "冰人鱼龙",
+        "normal_rank": 2
     },
     "350": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
             "13": true,
-            "5": true
+            "14": true,
+            "5": true,
+            "9": true
         },
         "mystery_rank": 5,
         "name": "Pyre Rakna-Kadaki",
-        "name_chs": "炽妃蜘蛛"
+        "name_chs": "炽妃蜘蛛",
+        "normal_rank": 3
     },
     "351": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
-            "5": true
+            "10": true,
+            "14": true,
+            "5": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Magma Almudron",
-        "name_chs": "熔翁龙"
+        "name_chs": "熔翁龙",
+        "normal_rank": 3
     },
     "37": {
         "capture": true,
@@ -527,86 +743,110 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Nargacuga",
-        "name_chs": "迅龙"
+        "name_chs": "迅龙",
+        "normal_rank": 2
     },
     "392": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
-            "13": true
+            "10": true,
+            "13": true,
+            "14": true,
+            "9": true
         },
         "mystery_rank": 6,
         "name": "Flaming Espinas",
-        "name_chs": "棘茶龙"
+        "name_chs": "棘茶龙",
+        "normal_rank": 5
     },
     "4": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
+            "14": true,
             "2": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Basarios",
-        "name_chs": "岩龙"
+        "name_chs": "岩龙",
+        "normal_rank": 1
     },
     "42": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
             "13": true,
-            "4": true
+            "14": true,
+            "4": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Barioth",
-        "name_chs": "冰牙龙"
+        "name_chs": "冰牙龙",
+        "normal_rank": 2
     },
     "44": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
-            "2": true
+            "10": true,
+            "2": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Barroth",
-        "name_chs": "土砂龙"
+        "name_chs": "土砂龙",
+        "normal_rank": 0
     },
     "47": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
             "12": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Royal Ludroth",
-        "name_chs": "水兽"
+        "name_chs": "水兽",
+        "normal_rank": 0
     },
     "513": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "2": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 6,
         "name": "Gold Rathian",
-        "name_chs": "金火龙"
+        "name_chs": "金火龙",
+        "normal_rank": 5
     },
     "514": {
         "capture": true,
@@ -614,69 +854,92 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "5": true
+            "14": true,
+            "5": true,
+            "9": true
         },
         "mystery_rank": 6,
         "name": "Silver Rathalos",
-        "name_chs": "银火龙"
+        "name_chs": "银火龙",
+        "normal_rank": 5
     },
     "54": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
-            "4": true
+            "10": true,
+            "14": true,
+            "4": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Great Baggi",
-        "name_chs": "眠狗龙王"
+        "name_chs": "眠狗龙王",
+        "normal_rank": 0
     },
     "549": {
         "capture": true,
         "main": false,
         "maps": {
-            "0": true
+            "0": true,
+            "14": true
         },
         "mystery_rank": 11,
         "name": "Lucent Nargacuga",
-        "name_chs": "月迅龙"
+        "name_chs": "月迅龙",
+        "normal_rank": 5
     },
     "57": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Zinogre",
-        "name_chs": "雷狼龙"
+        "name_chs": "雷狼龙",
+        "normal_rank": 3
     },
     "59": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "3": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Great Wroggi",
-        "name_chs": "毒狗龙王"
+        "name_chs": "毒狗龙王",
+        "normal_rank": 0
     },
     "594": {
         "capture": true,
         "main": false,
         "maps": {
-            "0": true
+            "0": true,
+            "10": true,
+            "14": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Violet Mizutsune",
-        "name_chs": "焰狐龙"
+        "name_chs": "焰狐龙",
+        "normal_rank": 5
     },
     "60": {
         "capture": true,
@@ -684,72 +947,91 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Arzuros",
-        "name_chs": "青熊兽"
+        "name_chs": "青熊兽",
+        "normal_rank": 0
     },
     "61": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
+            "10": true,
             "13": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Lagombi",
-        "name_chs": "白兔兽"
+        "name_chs": "白兔兽",
+        "normal_rank": 0
     },
     "62": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
             "13": true,
             "2": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Volvidon",
-        "name_chs": "赤甲兽"
+        "name_chs": "赤甲兽",
+        "normal_rank": 0
     },
     "7": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
-            "2": true
+            "10": true,
+            "14": true,
+            "2": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Diablos",
-        "name_chs": "角龙"
+        "name_chs": "角龙",
+        "normal_rank": 3
     },
     "71": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "13": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 5,
         "name": "Gore Magala",
-        "name_chs": "黑蚀龙"
+        "name_chs": "黑蚀龙",
+        "normal_rank": 3
     },
     "72": {
         "capture": false,
         "main": false,
         "maps": {
-            "0": true,
-            "13": true
+            "10": true,
+            "13": true,
+            "14": true,
+            "9": true
         },
         "mystery_rank": 11,
         "name": "Shagaru Magala",
-        "name_chs": "天廻龙"
+        "name_chs": "天廻龙",
+        "normal_rank": 4
     },
     "77": {
         "capture": true,
@@ -757,12 +1039,16 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "13": true,
-            "2": true
+            "14": true,
+            "2": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Seregios",
-        "name_chs": "千刃龙"
+        "name_chs": "千刃龙",
+        "normal_rank": 3
     },
     "81": {
         "capture": true,
@@ -770,25 +1056,34 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Astalos",
-        "name_chs": "电龙"
+        "name_chs": "电龙",
+        "normal_rank": 3
     },
     "82": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
+            "14": true,
             "3": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 4,
         "name": "Mizutsune",
-        "name_chs": "泡狐龙"
+        "name_chs": "泡狐龙",
+        "normal_rank": 3
     },
     "89": {
         "capture": true,
@@ -796,12 +1091,16 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
+            "14": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Magnamalo",
-        "name_chs": "怨虎龙"
+        "name_chs": "怨虎龙",
+        "normal_rank": 2
     },
     "90": {
         "capture": true,
@@ -809,12 +1108,16 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
-            "3": true
+            "14": true,
+            "3": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Bishaten",
-        "name_chs": "天狗兽"
+        "name_chs": "天狗兽",
+        "normal_rank": 1
     },
     "91": {
         "capture": true,
@@ -822,50 +1125,63 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
             "12": true,
-            "4": true
+            "14": true,
+            "4": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Aknosom",
-        "name_chs": "伞鸟"
+        "name_chs": "伞鸟",
+        "normal_rank": 0
     },
     "92": {
         "capture": true,
         "main": true,
         "maps": {
+            "0": true,
             "1": true,
+            "10": true,
             "12": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 1,
         "name": "Tetranadon",
-        "name_chs": "河童蛙"
+        "name_chs": "河童蛙",
+        "normal_rank": 0
     },
     "93": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
             "3": true,
             "4": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 2,
         "name": "Somnacanth",
-        "name_chs": "人鱼龙"
+        "name_chs": "人鱼龙",
+        "normal_rank": 1
     },
     "94": {
         "capture": true,
         "main": true,
         "maps": {
             "0": true,
+            "10": true,
+            "14": true,
             "2": true,
-            "5": true
+            "5": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Rakna-Kadaki",
-        "name_chs": "妃蜘蛛"
+        "name_chs": "妃蜘蛛",
+        "normal_rank": 2
     },
     "95": {
         "capture": true,
@@ -873,35 +1189,43 @@
         "maps": {
             "0": true,
             "1": true,
+            "10": true,
+            "14": true,
             "2": true,
-            "3": true
+            "3": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Almudron",
-        "name_chs": "泥翁龙"
+        "name_chs": "泥翁龙",
+        "normal_rank": 2
     },
     "97": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
+            "10": true,
             "13": true,
-            "4": true
+            "4": true,
+            "9": true
         },
         "mystery_rank": 3,
         "name": "Goss Harag",
-        "name_chs": "雪鬼兽"
+        "name_chs": "雪鬼兽",
+        "normal_rank": 2
     },
     "98": {
         "capture": true,
         "main": true,
         "maps": {
-            "0": true,
             "1": true,
-            "4": true
+            "10": true,
+            "4": true,
+            "9": true
         },
         "mystery_rank": 0,
         "name": "Great Izuchi",
-        "name_chs": "镰鼬龙王"
+        "name_chs": "镰鼬龙王",
+        "normal_rank": 0
     }
 }
